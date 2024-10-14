@@ -6,7 +6,7 @@ public class Aplicacion {
         boolean valor = Algoritmos.esPar(numero);
         System.out.println("¿El valor " + numero + " es par? R: " + valor);
 
-        int numero2 = 17;
+        int numero2 = 95;
         boolean valor2 = Algoritmos.esPrimo(numero2);
         System.out.println("¿El valor " + numero2 + " es primo? R: " + valor2);
 
